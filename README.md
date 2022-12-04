@@ -1,5 +1,5 @@
 # czfruitsimp.com
 
 ## Website build for client
-- domain bought at domainking.ng
+- domain bought with [doamincp](https://domaincp.monovm.com/)
 - [Demo](https://czfruitsimp.netlify.app)
